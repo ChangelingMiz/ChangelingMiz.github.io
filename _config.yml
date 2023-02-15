@@ -4,10 +4,10 @@ description: "This is a place for me to document my learning with Hack the Box a
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "ChangelingMiz@gmail.com"
-# twitter_username: "twitteruser"
-github_username: "ChangelingMiz"
-# linkedin_username: "linkedinuser"
+email: "example@mail.com"
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -18,7 +18,7 @@ github_username: "ChangelingMiz"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: pages-themes/midnight@v0.2.0
+theme: "minima"
 
 rss: rss
 
@@ -29,7 +29,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
