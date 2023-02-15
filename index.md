@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hey there! My name is ChangelingMiz, based off my favorite D&D character I've made
+(Who was a Changeling... named Miz)
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Here is my blog showing my progress with Hack The Box and TryHackMe so I can reference things I've done for jobs.
+Thanks for stopping by! 
